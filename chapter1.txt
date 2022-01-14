@@ -1,2 +1,2 @@
-Hey, trying out github
-let's try the changes again
+Let's practice by myself now that the repository is connected
+
